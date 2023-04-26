@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 1,
+        "city": "Bà Rịa",
+        "province": "Bà Rịa–Vũng Tàu",
+        "area": 91.47,
+        "population": 205192,
+        "density": 2200,
+        "year": "8/22/2012",
+        "class": "2",
+        "coord": {
+            "lon": 107.18148,
+            "lat": 10.50912
+        }
+    },
+    {
+        "id": 2,
+        "city": "Bắc Giang",
+        "province": "Bắc Giang",
+        "area": 66.77,
+        "population": 174229,
+        "density": 2974,
+        "year": "6/7/2005",
+        "class": "2",
+        "coord": {
+            "lon": 106.199997,
+            "lat": 21.26667
+        }
+    },
+    {
+        "id": 3,
+        "city": "Bắc Kạn",
+        "province": "Bắc Kạn",
+        "area": 137,
+        "population": 45036,
+        "density": 330,
+        "year": "3/11/2015",
+        "class": "3",
+        "coord": {
+            "lon": 105.833328,
+            "lat": 22.133329
+        }
+    },
+    {
+        "id": 4,
+        "city": "Bạc Liêu",
+        "province": "Bạc Liêu",
+        "area": 175.38,
+        "population": 158264,
+        "density": 1370,
+        "year": "8/27/2010",
+        "class": "2",
+        "coord": {
+            "lon": 105.75,
+            "lat": 9.25
+        }
+    },
+    {
+        "id": 5,
+        "city": "Bắc Ninh",
+        "province": "Bắc Ninh",
+        "area": 82.61,
+        "population": 259924,
+        "density": 2707,
+        "year": "1/26/2006",
+        "class": "1",
+        "coord": {
+            "lon": 106.050003,
+            "lat": 21.183331
+        }
+    },
+    {
+        "id": 6,
+        "city": "Bảo Lộc",
+        "province": "Lâm Đồng",
+        "area": 232.56,
+        "population": 158981,
+        "density": 640,
+        "year": "4/8/2010",
+        "class": "3",
+        "coord": {
+            "lon": 107.80621,
+            "lat": 11.57272
+        }
+    },
+    {
+        "id": 7,
+        "city": "Bến Tre",
+        "province": "Bến Tre",
+        "area": 71.12,
+        "population": 124560,
+        "density": 3261,
+        "year": "8/11/2009",
+        "class": "2",
+        "coord": {
+            "lon": 106.383331,
+            "lat": 10.23333
+        }
+    },
+    {
+        "id": 8,
+        "city": "Biên Hòa",
+        "province": "Đồng Nai",
+        "area": 264.08,
+        "population": 1055414,
+        "density": 4182,
+        "year": "2/1/1976",
+        "class": "1",
+        "coord": {
+            "lon": 106.86890,
+            "lat": 10.93777
+        }
+    },
+    {
+        "id": 9,
+        "city": "Buôn Ma Thuột",
+        "province": "Đắk Lắk",
+        "area": 377.18,
+        "population": 375590,
+        "density": 996,
+        "year": "1/21/1995",
+        "class": "1",
+        "coord": {
+            "lon": 108.050003,
+            "lat": 12.66667
+        }
+    },
+    {
+        "id": 10,
+        "city": "Cà Mau",
+        "province": "Cà Mau",
+        "area": 250.3,
+        "population": 226372,
+        "density": 908,
+        "year": "4/14/1999",
+        "class": "2",
+        "coord": {
+            "lon": 105.150002,
+            "lat": 9.17694
+        }
+    },
+    {
+        "id": 11,
+        "city": "Cẩm Phả",
+        "province": "Quảng Ninh",
+        "area": 486.45,
+        "population": 155800,
+        "density": 463,
+        "year": "2/21/2012",
+        "class": "2",
+        "coord": {
+            "lon": 107.300003,
+            "lat": 21.01667
+        }
+    },
+    {
+        "id": 12,
+        "city": "Cam Ranh",
+        "province": "Khánh Hòa",
+        "area": 325.01,
+        "population": 138510,
+        "density": 438,
+        "year": "12/23/2010",
+        "class": "3",
+        "coord": {
+            "lon": 109.159126,
+            "lat": 11.92144
+        }
+    },
+    {
+        "id": 13,
+        "city": "Cần Thơ",
+        "province": "Cần Thơ",
+        "area": 1439.2,
+        "population": 1235171,
+        "density": 860,
+        "year": "11/26/2003",
+        "class": "1",
+        "coord": {
+            "lon": 105.783333,
+            "lat": 10.03333
+        }
+    },
+    {
+        "id": 14,
+        "city": "Cao Bằng",
+        "province": "Cao Bằng",
+        "area": 107.63,
+        "population": 73549,
+        "density": 680,
+        "year": "9/25/2012",
+        "class": "3",
+        "coord": {
+            "lon": 106.25,
+            "lat": 22.66667
+        }
+    },
+    {
+        "id": 15,
+        "city": "Cao Lãnh",
+        "province": "Đồng Tháp",
+        "area": 107,
+        "population": 213945,
+        "density": 1999,
+        "year": "1/16/2007",
+        "class": "2",
+        "coord": {
+            "lon": 105.633331,
+            "lat": 10.45
+        }
+    },
+    {
+        "id": 16,
+        "city": "Châu Đốc",
+        "province": "An Giang",
+        "area": 105.29,
+        "population": 101765,
+        "density": 967,
+        "year": "7/19/2013",
+        "class": "2",
+        "coord": {
+            "lon": 105.116669,
+            "lat": 10.7
+        }
+    },
+    {
+        "id": 17,
+        "city": "Chí Linh",
+        "province": "Hải Dương",
+        "area": 282.91,
+        "population": 220421,
+        "density": 779,
+        "year": "1/10/2019",
+        "class": "3",
+        "coord": {
+            "lon": 106.38725,
+            "lat": 21.10782
+        }
+    },
+    {
+        "id": 18,
+        "city": "Đà Lạt",
+        "province": "Lâm Đồng",
+        "area": 394.9,
+        "population": 231225,
+        "density": 586,
+        "year": "12:00:00 AM",
+        "class": "1",
+        "coord": {
+            "lon": 108.441933,
+            "lat": 11.94646
+        }
+    },
+    {
+        "id": 19,
+        "city": "Đà Nẵng",
+        "province": "Đà Nẵng",
+        "area": 1285.4,
+        "population": 1134310,
+        "density": 1200,
+        "year": "11/6/1996",
+        "class": "1",
+        "coord": {
+            "lon": 108.220833,
+            "lat": 16.06778
+        }
+    },
+    {
+        "id": 20,
+        "city": "Dĩ An",
+        "province": "Bình Dương",
+        "area": 60,
+        "population": 463023,
+        "density": 7711,
+        "year": "1/10/2020",
+        "class": "3",
+        "coord": {
+            "lon": 106.76974,
+            "lat": 10.90731
+        }
+    },
+    {
+        "id": 21,
+        "city": "Điện Biên Phủ",
+        "province": "Điện Biên",
+        "area": 64.27,
+        "population": 80366,
+        "density": 261,
+        "year": "9/26/2003",
+        "class": "3",
+        "coord": {
+            "lon": 103.01667,
+            "lat": 21.383329
+        }
+    },
+    {
+        "id": 22,
+        "city": "Đông Hà",
+        "province": "Quảng Trị",
+        "area": 73.06,
+        "population": 95658,
+        "density": 1308,
+        "year": "8/11/2009",
+        "class": "3",
+        "coord": {
+            "lon": 107.100311,
+            "lat": 16.81625
+        }
+    },
+    {
+        "id": 23,
+        "city": "Đồng Hới",
+        "province": "Quảng Bình",
+        "area": 155.54,
+        "population": 133818,
+        "density": 859,
+        "year": "8/16/2004",
+        "class": "2",
+        "coord": {
+            "lon": 106.599998,
+            "lat": 17.48333
+        }
+    },
+    {
+        "id": 24,
+        "city": "Đồng Xoài",
+        "province": "Bình Phước",
+        "area": 169.6,
+        "population": 108595,
+        "density": 649,
+        "year": "10/16/2018",
+        "class": "3",
+        "coord": {
+            "lon": 106.916672,
+            "lat": 11.53333
+        }
+    },
+    {
+        "id": 25,
+        "city": "Gia Nghĩa",
+        "province": "Đắk Nông",
+        "area": 284.11,
+        "population": 63046,
+        "density": 222,
+        "year": "12/17/2019",
+        "class": "3",
+        "coord": {
+            "lon": 107.6944,
+            "lat": 12.00000
+        }
+    },
+    {
+        "id": 26,
+        "city": "Hà Giang",
+        "province": "Hà Giang",
+        "area": 135.32,
+        "population": 55559,
+        "density": 416,
+        "year": "9/27/2010",
+        "class": "3",
+        "coord": {
+            "lon": 104.98333,
+            "lat": 22.83333
+        }
+    },
+    {
+        "id": 27,
+        "city": "Hạ Long",
+        "province": "Quảng Ninh",
+        "area": 1119.12,
+        "population": 322710,
+        "density": 288,
+        "year": "12/27/1993",
+        "class": "1",
+        "coord": {
+            "lon": 107.080002,
+            "lat": 20.951111
+        }
+    },
+    {
+        "id": 28,
+        "city": "Hà Nội",
+        "province": "Hà Nội",
+        "area": 3324.5,
+        "population": 8053663,
+        "density": 2300,
+        "year": "9/2/1945",
+        "class": "0",
+        "coord": {
+            "lon": 105.841171,
+            "lat": 21.0245
+        }
+    },
+    {
+        "id": 29,
+        "city": "Hà Tiên",
+        "province": "Kiên Giang",
+        "area": 100.49,
+        "population": 48644,
+        "density": 451,
+        "year": "9/11/2018",
+        "class": "3",
+        "coord": {
+            "lon": 104.48333,
+            "lat": 10.38333
+        }
+    },
+    {
+        "id": 30,
+        "city": "Hà Tĩnh",
+        "province": "Hà Tĩnh",
+        "area": 56.19,
+        "population": 202062,
+        "density": 3574,
+        "year": "5/28/2007",
+        "class": "2",
+        "coord": {
+            "lon": 105.900002,
+            "lat": 18.33333
+        }
+    },
+    {
+        "id": 31,
+        "city": "Hải Dương",
+        "province": "Hải Dương",
+        "area": 13.07,
+        "population": 508190,
+        "density": 4542,
+        "year": "8/6/1997",
+        "class": "1",
+        "coord": {
+            "lon": 106.316673,
+            "lat": 20.933331
+        }
+    },
+    {
+        "id": 32,
+        "city": "Hải Phòng",
+        "province": "Hải Phòng",
+        "area": 1527.4,
+        "population": 2028514,
+        "density": 1300,
+        "year": "2/22/1955",
+        "class": "1",
+        "coord": {
+            "lon": 106.68222,
+            "lat": 20.85611
+        }
+    },
+    {
+        "id": 33,
+        "city": "Hòa Bình",
+        "province": "Hòa Bình",
+        "area": 148.2,
+        "population": 135718,
+        "density": 389,
+        "year": "10/27/2006",
+        "class": "3",
+        "coord": {
+            "lon": 105.25,
+            "lat": 20.33333
+        }
+    },
+    {
+        "id": 34,
+        "city": "Hội An",
+        "province": "Quảng Nam",
+        "area": 61.47,
+        "population": 98599,
+        "density": 1604,
+        "year": "1/29/2008",
+        "class": "3",
+        "coord": {
+            "lon": 108.334999,
+            "lat": 15.87944
+        }
+    },
+    {
+        "id": 35,
+        "city": "Huế",
+        "province": "Thừa Thiên Huế",
+        "area": 265.99,
+        "population": 652572,
+        "density": 2453,
+        "year": "12/12/1929",
+        "class": "1",
+        "coord": {
+            "lon": 107.599998,
+            "lat": 16.466669
+        }
+    },
+    {
+        "id": 36,
+        "city": "Hưng Yên",
+        "province": "Hưng Yên",
+        "area": 73.89,
+        "population": 118646,
+        "density": 1606,
+        "year": "1/19/2009",
+        "class": "3",
+        "coord": {
+            "lon": 106.066673,
+            "lat": 20.65
+        }
+    },
+    {
+        "id": 37,
+        "city": "Kon Tum",
+        "province": "Kon Tum",
+        "area": 432.12,
+        "population": 168264,
+        "density": 389,
+        "year": "9/13/2009",
+        "class": "3",
+        "coord": {
+            "lon": 107.916672,
+            "lat": 14.75
+        }
+    },
+    {
+        "id": 38,
+        "city": "Lai Châu",
+        "province": "Lai Châu",
+        "area": 92.37,
+        "population": 42973,
+        "density": 465,
+        "year": "2/1/2013",
+        "class": "3",
+        "coord": {
+            "lon": 103.47129,
+            "lat": 22.38770
+        }
+    },
+    {
+        "id": 39,
+        "city": "Lạng Sơn",
+        "province": "Lạng Sơn",
+        "area": 77.94,
+        "population": 103284,
+        "density": 1325,
+        "year": "10/17/2002",
+        "class": "2",
+        "coord": {
+            "lon": 106.73333,
+            "lat": 21.83333
+        }
+    },
+    {
+        "id": 40,
+        "city": "Lào Cai",
+        "province": "Lào Cai",
+        "area": 229.67,
+        "population": 130671,
+        "density": 463,
+        "year": "11/30/2004",
+        "class": "2",
+        "coord": {
+            "lon": 103.949997,
+            "lat": 22.48333
+        }
+    },
+    {
+        "id": 41,
+        "city": "Long Khánh",
+        "province": "Đồng Nai",
+        "area": 195,
+        "population": 171276,
+        "density": 893,
+        "year": "4/10/2019",
+        "class": "3",
+        "coord": {
+            "lon": 107.24471,
+            "lat": 10.93161
+        }
+    },
+    {
+        "id": 42,
+        "city": "Long Xuyên",
+        "province": "An Giang",
+        "area": 106.87,
+        "population": 272365,
+        "density": 2361,
+        "year": "3/1/1999",
+        "class": "1",
+        "coord": {
+            "lon": 105.416672,
+            "lat": 10.38333
+        }
+    },
+    {
+        "id": 43,
+        "city": "Móng Cái",
+        "province": "Quảng Ninh",
+        "area": 516.6,
+        "population": 108553,
+        "density": 209,
+        "year": "9/24/2008",
+        "class": "2",
+        "coord": {
+            "lon": 107.96814,
+            "lat": 21.53115
+        }
+    },
+    {
+        "id": 44,
+        "city": "Mỹ Tho",
+        "province": "Tiền Giang",
+        "area": 79.8,
+        "population": 228109,
+        "density": 2798,
+        "year": "8/24/1967",
+        "class": "0",
+        "coord": {
+            "lon": 106.349998,
+            "lat": 10.35
+        }
+    },
+    {
+        "id": 45,
+        "city": "Nam Định",
+        "province": "Nam Định",
+        "area": 46.4,
+        "population": 236294,
+        "density": 5092,
+        "year": "10/17/1921",
+        "class": "1",
+        "coord": {
+            "lon": 106.166672,
+            "lat": 20.41667
+        }
+    },
+    {
+        "id": 46,
+        "city": "Ngã Bảy",
+        "province": "Hậu Giang",
+        "area": 78.07,
+        "population": 55674,
+        "density": 712,
+        "year": "1/10/2020",
+        "class": "3",
+        "coord": {
+            "lon": 105.82190,
+            "lat": 9.80902
+        }
+    },
+    {
+        "id": 47,
+        "city": "Nha Trang",
+        "province": "Khánh Hòa",
+        "area": 251,
+        "population": 422601,
+        "density": 1912,
+        "year": "3/30/1977",
+        "class": "1",
+        "coord": {
+            "lon": 109.183327,
+            "lat": 12.25
+        }
+    },
+    {
+        "id": 48,
+        "city": "Ninh Bình",
+        "province": "Ninh Bình",
+        "area": 48.36,
+        "population": 128480,
+        "density": 2657,
+        "year": "2/7/2007",
+        "class": "2",
+        "coord": {
+            "lon": 105.833328,
+            "lat": 20.25
+        }
+    },
+    {
+        "id": 49,
+        "city": "Phan Rang – Tháp Chàm",
+        "province": "Ninh Thuận",
+        "area": 78.9,
+        "population": 167394,
+        "density": 2114,
+        "year": "2/8/2007",
+        "class": "2",
+        "coord": {
+            "lon": 108.99960,
+            "lat": 11.56523
+        }
+    },
+    {
+        "id": 50,
+        "city": "Phan Thiết",
+        "province": "Bình Thuận",
+        "area": 206,
+        "population": 226736,
+        "density": 1075,
+        "year": "8/25/1999",
+        "class": "2",
+        "coord": {
+            "lon": 108.099998,
+            "lat": 10.93333
+        }
+    },
+    {
+        "id": 51,
+        "city": "Phủ Lý",
+        "province": "Hà Nam",
+        "area": 87.87,
+        "population": 158212,
+        "density": 1805,
+        "year": "6/9/2008",
+        "class": "2",
+        "coord": {
+            "lon": 105.913887,
+            "lat": 20.541109
+        }
+    },
+    {
+        "id": 52,
+        "city": "Phú Quốc",
+        "province": "Kiên Giang",
+        "area": 589.27,
+        "population": 144460,
+        "density": 245,
+        "year": "12/9/2020",
+        "class": "2",
+        "coord": {
+            "lon": 104.02614,
+            "lat": 10.25401
+        }
+    },
+    {
+        "id": 53,
+        "city": "Phúc Yên",
+        "province": "Vĩnh Phúc",
+        "area": 120.13,
+        "population": 155575,
+        "density": 1295,
+        "year": "2/7/2018",
+        "class": "3",
+        "coord": {
+            "lon": 105.70652,
+            "lat": 21.23653
+        }
+    },
+    {
+        "id": 54,
+        "city": "Pleiku",
+        "province": "Gia Lai",
+        "area": 266.61,
+        "population": 254802,
+        "density": 977,
+        "year": "4/24/1999",
+        "class": "1",
+        "coord": {
+            "lon": 108.0,
+            "lat": 13.98333
+        }
+    },
+    {
+        "id": 55,
+        "city": "Quảng Ngãi",
+        "province": "Quảng Ngãi",
+        "area": 160.15,
+        "population": 261417,
+        "density": 1634,
+        "year": "8/26/2005",
+        "class": "2",
+        "coord": {
+            "lon": 108.666672,
+            "lat": 15.0
+        }
+    },
+    {
+        "id": 56,
+        "city": "Quy Nhơn",
+        "province": "Bình Định",
+        "area": 284.28,
+        "population": 290053,
+        "density": 1014,
+        "year": "7/3/1986",
+        "class": "1",
+        "coord": {
+            "lon": 109.23333,
+            "lat": 13.76667
+        }
+    },
+    {
+        "id": 57,
+        "city": "Rạch Giá",
+        "province": "Kiên Giang",
+        "area": 105,
+        "population": 228416,
+        "density": 2158,
+        "year": "7/26/2005",
+        "class": "2",
+        "coord": {
+            "lon": 105.083328,
+            "lat": 10.01667
+        }
+    },
+    {
+        "id": 58,
+        "city": "Sa Đéc",
+        "province": "Đồng Tháp",
+        "area": 59.81,
+        "population": 106198,
+        "density": 1776,
+        "year": "10/14/2013",
+        "class": "0",
+        "coord": {
+            "lon": 105.76667,
+            "lat": 10.3
+        }
+    },
+    {
+        "id": 59,
+        "city": "Sầm Sơn",
+        "province": "Thanh Hóa",
+        "area": 45,
+        "population": 109208,
+        "density": 2430,
+        "year": "4/19/2017",
+        "class": "2",
+        "coord": {
+            "lon": 105.84680,
+            "lat": 19.756360
+        }
+    },
+    {
+        "id": 60,
+        "city": "Sóc Trăng",
+        "province": "Sóc Trăng",
+        "area": 76.15,
+        "population": 203056,
+        "density": 2672,
+        "year": "2/8/2007",
+        "class": "2",
+        "coord": {
+            "lon": 105.980003,
+            "lat": 9.60333
+        }
+    },
+    {
+        "id": 61,
+        "city": "Sơn La",
+        "province": "Sơn La",
+        "area": 324.93,
+        "population": 106052,
+        "density": 328,
+        "year": "9/3/2008",
+        "class": "2",
+        "coord": {
+            "lon": 103.900002,
+            "lat": 21.316669
+        }
+    },
+    {
+        "id": 62,
+        "city": "Sông Công",
+        "province": "Thái Nguyên",
+        "area": 98.37,
+        "population": 69382,
+        "density": 705,
+        "year": "7/1/2015",
+        "class": "3",
+        "coord": {
+            "lon": 105.84577,
+            "lat": 21.46711
+        }
+    },
+    {
+        "id": 63,
+        "city": "Tam Điệp",
+        "province": "Ninh Bình",
+        "area": 104.98,
+        "population": 62866,
+        "density": 604,
+        "year": "4/10/2015",
+        "class": "3",
+        "coord": {
+            "lon": 105.90458,
+            "lat": 20.15612
+        }
+    },
+    {
+        "id": 64,
+        "city": "Tam Kỳ",
+        "province": "Quảng Nam",
+        "area": 92.02,
+        "population": 122374,
+        "density": 1221,
+        "year": "10/26/2006",
+        "class": "2",
+        "coord": {
+            "lon": 108.48333,
+            "lat": 15.56667
+        }
+    },
+    {
+        "id": 65,
+        "city": "Tân An",
+        "province": "Long An",
+        "area": 81.95,
+        "population": 145120,
+        "density": 1771,
+        "year": "8/24/2009",
+        "class": "2",
+        "coord": {
+            "lon": 106.416672,
+            "lat": 10.53333
+        }
+    },
+    {
+        "id": 66,
+        "city": "Tân Uyên",
+        "province": "Bình Dương",
+        "area": 192.5,
+        "population": 466053,
+        "density": 2430,
+        "year": "4/10/2023",
+        "class": "3",
+        "coord": {
+            "lon": 106.75756,
+            "lat": 11.04961
+        }
+    },
+    {
+        "id": 67,
+        "city": "Tây Ninh",
+        "province": "Tây Ninh",
+        "area": 140,
+        "population": 135254,
+        "density": 967,
+        "year": "12/29/2013",
+        "class": "3",
+        "coord": {
+            "lon": 106.099998,
+            "lat": 11.3
+        }
+    },
+    {
+        "id": 68,
+        "city": "Thái Bình",
+        "province": "Thái Bình",
+        "area": 67.71,
+        "population": 206037,
+        "density": 3043,
+        "year": "4/29/2004",
+        "class": "2",
+        "coord": {
+            "lon": 106.333328,
+            "lat": 20.450001
+        }
+    },
+    {
+        "id": 69,
+        "city": "Thái Nguyên",
+        "province": "Thái Nguyên",
+        "area": 189.71,
+        "population": 340403,
+        "density": 1190,
+        "year": "10/19/1962",
+        "class": "1",
+        "coord": {
+            "lon": 105.84417,
+            "lat": 21.592779
+        }
+    },
+    {
+        "id": 70,
+        "city": "Thanh Hóa",
+        "province": "Thanh Hóa",
+        "area": 146.77,
+        "population": 359910,
+        "density": 2452,
+        "year": "5/1/1994",
+        "class": "1",
+        "coord": {
+            "lon": 105.5,
+            "lat": 20.0
+        }
+    },
+    {
+        "id": 71,
+        "city": "Tp.HCM",
+        "province": "Tp.HCM",
+        "area": 2095.5,
+        "population": 8993082,
+        "density": 4292,
+        "year": "10/26/1955",
+        "class": "0",
+        "coord": {
+            "lon": 106.69528,
+            "lat": 10.77706
+        }
+    },
+    {
+        "id": 72,
+        "city": "Thủ Dầu Một",
+        "province": "Bình Dương",
+        "area": 118.87,
+        "population": 336705,
+        "density": 2832,
+        "year": "5/2/2012",
+        "class": "1",
+        "coord": {
+            "lon": 106.650002,
+            "lat": 10.96667
+        }
+    },
+    {
+        "id": 73,
+        "city": "Thủ Đức",
+        "province": "Thành phố Hồ Chí Minh",
+        "area": 211.56,
+        "population": 1013795,
+        "density": 4800,
+        "year": "12/9/2020",
+        "class": "1",
+        "coord": {
+            "lon": 106.75424,
+            "lat": 10.85028
+        }
+    },
+    {
+        "id": 74,
+        "city": "Thuận An",
+        "province": "Bình Dương",
+        "area": 83.69,
+        "population": 618984,
+        "density": 7394,
+        "year": "1/10/2020",
+        "class": "3",
+        "coord": {
+            "lon": 106.70598,
+            "lat": 10.92501
+        }
+    },
+    {
+        "id": 75,
+        "city": "Trà Vinh",
+        "province": "Trà Vinh",
+        "area": 68.03,
+        "population": 112584,
+        "density": 1655,
+        "year": "3/4/2010",
+        "class": "2",
+        "coord": {
+            "lon": 106.345284,
+            "lat": 9.93472
+        }
+    },
+    {
+        "id": 76,
+        "city": "Tuy Hòa",
+        "province": "Phú Yên",
+        "area": 106.82,
+        "population": 155921,
+        "density": 1460,
+        "year": "1/5/2005",
+        "class": "2",
+        "coord": {
+            "lon":109.32714,
+            "lat": 13.09072
+        }
+    },
+    {
+        "id": 77,
+        "city": "Tuyên Quang",
+        "province": "Tuyên Quang",
+        "area": 119.17,
+        "population": 232230,
+        "density": 1260,
+        "year": "7/2/2010",
+        "class": "2",
+        "coord": {
+            "lon": 105.218063,
+            "lat": 21.82333
+        }
+    },
+    {
+        "id": 78,
+        "city": "Uông Bí",
+        "province": "Quảng Ninh",
+        "area": 256.31,
+        "population": 120982,
+        "density": 472,
+        "year": "2/25/2011",
+        "class": "2",
+        "coord": {
+            "lon": 106.783333,
+            "lat": 21.033331
+        }
+    },
+    {
+        "id": 79,
+        "city": "Vị Thanh",
+        "province": "Hậu Giang",
+        "area": 118.65,
+        "population": 72686,
+        "density": 612,
+        "year": "9/23/2010",
+        "class": "2",
+        "coord": {
+            "lon": 105.46009,
+            "lat": 9.77667
+        }
+    },
+    {
+        "id": 80,
+        "city": "Việt Trì",
+        "province": "Phú Thọ",
+        "area": 111.17,
+        "population": 315850,
+        "density": 2826,
+        "year": "6/4/1962",
+        "class": "1",
+        "coord": {
+            "lon": 105.430832,
+            "lat": 21.301941
+        }
+    },
+    {
+        "id": 81,
+        "city": "Vinh",
+        "province": "Nghệ An",
+        "area": 104.98,
+        "population": 339114,
+        "density": 3230,
+        "year": "12/10/1927",
+        "class": "1",
+        "coord": {
+            "lon": 105.666672,
+            "lat": 18.66667
+        }
+    },
+    {
+        "id": 82,
+        "city": "Vĩnh Long",
+        "province": "Vĩnh Long",
+        "area": 48.01,
+        "population": 137870,
+        "density": 2883,
+        "year": "4/10/2009",
+        "class": "2",
+        "coord": {
+            "lon": 106.0,
+            "lat": 10.16667
+        }
+    },
+    {
+        "id": 83,
+        "city": "Vĩnh Yên",
+        "province": "Vĩnh Phúc",
+        "area": 50.8,
+        "population": 114908,
+        "density": 2262,
+        "year": "12/1/2006",
+        "class": "2",
+        "coord": {
+            "lon": 105.596672,
+            "lat": 21.309999
+        }
+    },
+    {
+        "id": 84,
+        "city": "Vũng Tàu",
+        "province": "Bà Rịa–Vũng Tàu",
+        "area": 140.65,
+        "population": 420860,
+        "density": 2983,
+        "year": "8/1/1991",
+        "class": "1",
+        "coord": {
+            "lon": 107.084259,
+            "lat": 10.34599
+        }
+    },
+    {
+        "id": 85,
+        "city": "Yên Bái",
+        "province": "Yên Bái",
+        "area": 108.155,
+        "population": 100631,
+        "density": 930,
+        "year": "1/11/2002",
+        "class": "3",
+        "coord": {
+            "lon": 104.866669,
+            "lat": 21.700001
+        }
+    }
+]
